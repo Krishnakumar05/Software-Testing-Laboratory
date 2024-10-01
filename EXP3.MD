@@ -16,7 +16,7 @@ Write a python program to check the number is prime or not and inspect for failu
 8. Stop the program.
 
 ### Program:
-
+```
 num = input("Enter a value: ")
 flag = 0
 
@@ -40,7 +40,7 @@ if num.isnumeric():
         print("Not a Prime Number")
 else:
     print("Enter a Positive Number")
-
+```
 ### Output:
 ```
 Enter a value: 10 
