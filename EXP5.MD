@@ -46,6 +46,15 @@ except ValueError:
 
 ![Binary Search](https://github.com/user-attachments/assets/dd954bb4-9ec6-409c-9c45-a6197692d0e3)
 
+
+
+
+
+
+
+
+
+
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
 
