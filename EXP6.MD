@@ -39,31 +39,8 @@ else:
 ```
 
 ### Output:
-```
-Alphanumeric values: 
-Input: S010S 
-Output: Enter a valid string 
-Test case: Fail 
 
-Numeric values: 
-Input: 12321 
-Output: Enter a valid string 
-Test case : Fail 
+![palindrome](https://github.com/user-attachments/assets/63aa09bc-fd10-4d3a-a26a-558c8af5ddc1)
 
-Alphabet values: 
-Input: madam 
-Output: It is a palindrome 
-Test case : Pass 
-
-Non-palindrome string 
-Input: abcd 
-Output: It is not a palindrome 
-Test case: Pass 
-
-Symbols 
-Input: &%& 
-Output: Enter a valid string 
-Test case: Fail
-```
 ### Result:
 Thus, a program to check palindrome has been written and test cases have been written and verified successfully.
