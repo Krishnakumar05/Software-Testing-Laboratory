@@ -19,7 +19,6 @@ def Palindrome(string):
         if string[i] != string[len(string)-i-1]: 
             return False 
     return True 
-
 s = input("Enter a string: ") 
 c = 1 
 
@@ -27,7 +26,6 @@ for i in s:
     if not i.isalpha(): 
         c = 0 
         break  
-
 if c == 0: 
     print("Enter a valid string") 
 else:
@@ -37,7 +35,6 @@ else:
     else: 
         print("The given string is not a palindrome")
 ```
-
 ### Output:
 
 ![palindrome](https://github.com/user-attachments/assets/63aa09bc-fd10-4d3a-a26a-558c8af5ddc1)
