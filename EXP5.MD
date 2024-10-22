@@ -43,43 +43,8 @@ except ValueError:
 ```
 
 ### Output:
-```
-Enter the element to be searched: 10 
- Element is present at index 3 
-Test Case: Pass 
 
-Enter the element to be searched: -6 
- Element is not present in array 
-Test Case: Pass 
-
-Enter the element to be searched: str 
-Enter a valid input! 
-Test Case: Fail 
-
-Enter the element to be searched: 
-Enter a valid input! 
- Test Case: Fail
-
-Enter the element to be searched: 20 
- Enter a valid input! 
-Test Case: Pass 
-
-Enter the element to be searched: 3 4 
- Enter a valid input! 
-Test Case: Fail 
-
-Enter the element to be searched: 0.8 
- Enter a valid input! 
-Test Case: Fail 
-
-Enter the element to be searched: @123 
- Enter a valid input! 
-Test Case: Fail 
-
-Enter the element to be searched: -10 20 
- Enter a valid input! 
-Test Case: Fail
-```
+![Binary Search](https://github.com/user-attachments/assets/dd954bb4-9ec6-409c-9c45-a6197692d0e3)
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
